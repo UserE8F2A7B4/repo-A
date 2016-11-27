@@ -1,2 +1,2 @@
-master / remote.
-Gewijzigd op de remote master.
+Samenvoeging van remote en feature-03.
+Gedaan op feature-03

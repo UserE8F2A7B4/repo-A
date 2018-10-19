@@ -1,1 +1,1 @@
-remote master
+D / On branch 'master' / wijziging 01 / gemaakt lokaal.

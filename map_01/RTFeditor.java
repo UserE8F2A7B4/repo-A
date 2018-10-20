@@ -24,6 +24,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 // Wijziging op lokale feature-branch.
+// Wijziging op de remote master.
 
 import javax.swing.AbstractAction;
 import javax.swing.Action;

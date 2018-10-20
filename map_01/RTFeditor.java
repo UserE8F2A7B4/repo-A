@@ -23,6 +23,8 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// Wijziging op lokale feature-branch.
+
 import javax.swing.AbstractAction;
 import javax.swing.Action;
 import javax.swing.BorderFactory;

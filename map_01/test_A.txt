@@ -1,2 +1,2 @@
-
 A / On branch 'feature-branch-01' / wijziging 01 / gemaakt lokaal.
+A / On branch 'remote master' / wijziging 01 / gemaakt remote.
